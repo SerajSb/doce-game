@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+.player {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.buttons button {
+    margin: 5px;
+    padding: 5px 10px;
+}
+
+button#newGame {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
